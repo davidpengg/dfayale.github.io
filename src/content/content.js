@@ -1,4 +1,64 @@
 export const ProjectContent = {
+  nhreads: {
+    title: 'Placeholder title',
+    summary: 'Placeholder summary',
+    description:
+      'Placeholder description',
+    imageLinks: [
+      '/projects/ctsbdc-primary.jpeg',
+    ],
+    year: '2022-2023'
+  },
+  yhospitality: {
+    title: 'Placeholder title',
+    summary: 'Placeholder summary',
+    description:
+      'Placeholder description',
+    imageLinks: [
+      '/projects/ctsbdc-primary.jpeg',
+    ],
+    year: '2022-2023'
+  },
+  pathways_22: {
+    title: 'Placeholder title',
+    summary: 'Placeholder summary',
+    description:
+      'Placeholder description',
+    imageLinks: [
+      '/projects/ctsbdc-primary.jpeg',
+    ],
+    year: '2022-2023'
+  },
+  fish: {
+    title: 'Placeholder title',
+    summary: 'Placeholder summary',
+    description:
+      'Placeholder description',
+    imageLinks: [
+      '/projects/ctsbdc-primary.jpeg',
+    ],
+    year: '2021-2022'
+  },
+  discover: {
+    title: 'Placeholder title',
+    summary: 'Placeholder summary',
+    description:
+      'Placeholder description',
+    imageLinks: [
+      '/projects/ctsbdc-primary.jpeg',
+    ],
+    year: '2021-2022'
+  },
+  pathways_21: {
+    title: 'Placeholder title',
+    summary: 'Placeholder summary',
+    description:
+      'Placeholder description',
+    imageLinks: [
+      '/projects/ctsbdc-primary.jpeg',
+    ],
+    year: '2021-2022'
+  },
   ctsbdc: {
     title: 'Connecticut Small Business Development Center',
     summary: 'Providing support for New Haven small businesses',
@@ -54,7 +114,7 @@ export const ProjectContent = {
     imageLinks: ['/projects/edgewood-primary.png'],
     year: '2020-2021',
   },*/
-  pathways: {
+  pathways_20: {
     title: 'Pathways to Science',
     summary:
       'Promoting STEM education for middle and high school students in the New Haven area',
